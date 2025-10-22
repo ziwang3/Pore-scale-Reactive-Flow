@@ -22,7 +22,9 @@ Concentration transport:{
     "uniform": uniform_tensor_r, "uniform_mask": uniform_mask_r,
     "curvature": curvature_tensor_r, "curvature_mask": curvature_mask_r,
 }
-
 The visualization of point sampling is:
 <img width="712" height="568" alt="image" src="https://github.com/user-attachments/assets/d1d1c7de-a75d-4360-ad3b-133445deeb36" />
+<img width="783" height="657" alt="image" src="https://github.com/user-attachments/assets/b10750b3-062e-49b0-8bbc-c5efd324d134" />
+<img width="775" height="652" alt="image" src="https://github.com/user-attachments/assets/831a749f-30a0-48d7-9554-81e93e247edd" />
 
+For dataset acquisition, please contact ziwang3@stanford.edu.
